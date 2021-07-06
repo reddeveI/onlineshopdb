@@ -1,3 +1,4 @@
 # onlineshopdb
 
-1. Схема базы данных onlineshopdb.png
+- Создание таблиц в файле init.sql
+- Схема таблиц в файле onlineshopdb.png
